@@ -1,7 +1,7 @@
-
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Kyojin%20%20&fontAlign=30&fontSize=40&textBg=true&desc=Front-End%20Developer&descAlign=60&descAlignY=50&animation=scaleIn)
 
 <p>
-  <h2 align="left">Tech Stacks 🛠</h2>
+  <h2 align="left">🛠 Tech Stacks</h2>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -9,9 +9,9 @@
   </a>
 </p>
 
+
 <p>
-  <h2 align="left">Velog</h3>
-  
+  <h2 align="left">✅ Velog</h3>
 </p>
 <p align="left">
   <a href="https://velog.io/@owen1127">
